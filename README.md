@@ -1,2 +1,2 @@
 ## Requirements
-The code is built based on Python 3.9.12, PyTorch 1.11.0, and NumPy 1.21.2.
+The code is built based on Python 3.8.10, PyTorch 2.4.1, and tensorly 0.8.1.
